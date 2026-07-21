@@ -7,8 +7,9 @@ Este repositório contém meus projetos e arquivos desenvolvidos em **Unity** co
 ## 👨‍💻 Sobre o autor
 
 **Nome:** Vinícius Silva Souza 
-**Curso:** Sistemas de Informação  
-**Semestre:** 6º Semestre
+**Curso:** Sistemas de Informação 
+
+**Período:** 6º Semestre
 
 ---
 
@@ -17,6 +18,8 @@ Este repositório contém meus projetos e arquivos desenvolvidos em **Unity** co
 Os arquivos aqui presentes são fruto dos meus estudos e prática na plataforma Unity, utilizando a linguagem C# para desenvolvimento de jogos e aplicações interativas.
 
 O conteúdo foi desenvolvido acompanhando as aulas e tutoriais do canal **André Young**, com adaptações e experimentos próprios para consolidar meu aprendizado.
+
+Navegue pelas branches.
 
 ---
 
