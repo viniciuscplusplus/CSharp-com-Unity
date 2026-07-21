@@ -7,7 +7,7 @@ public class playermovement : MonoBehaviour
     float move_speed;
     void Start()
     {
-        move_speed = base_speed;
+        move_speed = base_speed * 20;
     }
 
     // Update is called once per frame
@@ -25,12 +25,12 @@ public class playermovement : MonoBehaviour
 
         if ( (horizontal > 0 || horizontal < 0) && (vertical > 0 || vertical < 0) )
         { 
-            move_speed = base_speed*0.66f; 
+            move_speed = base_speed * 15; 
         }
 
         else
         {
-            move_speed = base_speed ;
+            move_speed = base_speed * 20;
         }
 
     }
