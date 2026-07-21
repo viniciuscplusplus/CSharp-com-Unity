@@ -211,7 +211,3 @@ CONCEITOS ABORDADOS
 - Operações matemáticas básicas
 - Console de saída (Debug.Log)
 - Reutilização de código
-
-================================================================================
-Divirta-se programando! 🚀
-================================================================================
