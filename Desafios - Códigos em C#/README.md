@@ -313,8 +313,3 @@ CONCEITOS ABORDADOS
 - Funções com retorno
 - Concatenação de strings
 - Debug.Log() para saída no console
-
-
-================================================================================
-Divirta-se programando! 🚀
-================================================================================
